@@ -39,5 +39,6 @@
     "files": [
       "src/Create.php"
     ]
-  }
+  },
+  "minimum-stability": "dev"
 }
